@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work_in_progresses | Colin Davison</title>
+    <link>https://colindavison.github.io/work_in_progress/</link>
+      <atom:link href="https://colindavison.github.io/work_in_progress/index.xml" rel="self" type="application/rss+xml" />
+    <description>Work_in_progresses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://colindavison.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Work_in_progresses</title>
+      <link>https://colindavison.github.io/work_in_progress/</link>
+    </image>
+    
+    <item>
+      <title>Compulsory Innovation: How Education Forms Inventors</title>
+      <link>https://colindavison.github.io/work_in_progress/compulsory_innovation/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://colindavison.github.io/work_in_progress/compulsory_innovation/</guid>
+      <description>&lt;p&gt;This work will seek to shed light on how formal education impacts an individual&amp;rsquo;s innovative activity.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Effect of Applied Science on Basic Research: Evidence from Clinical Trials</title>
+      <link>https://colindavison.github.io/work_in_progress/basic_applied_science/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://colindavison.github.io/work_in_progress/basic_applied_science/</guid>
+      <description>&lt;p&gt;This work will seek to shed light on how applied science impacts work done in basic science.  The context of our study will be the disruption to applied science that took place due to the COVID-19 pandemic.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
