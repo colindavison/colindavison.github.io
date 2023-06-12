@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working Papers | Colin Davison</title>
+    <link>https://colindavison.github.io/working_paper/</link>
+      <atom:link href="https://colindavison.github.io/working_paper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Working Papers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://colindavison.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Working Papers</title>
+      <link>https://colindavison.github.io/working_paper/</link>
+    </image>
+    
+    <item>
+      <title>More Competition, Better Products: Evidence from a Novel Classification of Patents</title>
+      <link>https://colindavison.github.io/working_paper/more_competition_better_products/</link>
+      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://colindavison.github.io/working_paper/more_competition_better_products/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This paper uses the text of patents and machine learning techniques to classify patent claims as product or process innovations. To examine the role of competition in shaping innovation, I combine this newly created data with plausibly exogenous variation in foreign import competition induced by large tariff cuts. Using a difference-in-differences strategy, I find that firms increase their product innovation in response to increased import competition, but import competition has no effect on process innovation. Heterogeneity analysis provides evidence that the effect on product innovation is stronger for firms operating in industries with wider scope for product differentiation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Imports, Exports, and Employment: India’s Trading Relationship with China</title>
+      <link>https://colindavison.github.io/working_paper/india_china/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://colindavison.github.io/working_paper/india_china/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This paper examines the effect of increased import competition and export demand on local labor markets in the context of India’s trading relationship with China. Using an instrumental variables approach, I find that labor markets exposed to Chinese imports decrease their manufacturing employment growth relative to their positive preexisting trend. On average, manufacturing employment does not grow in response to export demand shocks, but sufficiently literate, developed, or urban labor markets see positive manufacturing growth in response to export demand increases. These same districts are also able to increase their service sector employment in response to increased export demand.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Spillovers of Products and Processes</title>
+      <link>https://colindavison.github.io/working_paper/product_spillovers/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://colindavison.github.io/working_paper/product_spillovers/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This paper provides evidence that product innovations generate more knowledge spillovers than process innovations. I measure the existence of knowledge spillovers using patent-to-patent citations, the text of patents, and by measuring the stock of product and process R&amp;amp;D available to a firm. I find that product patents generate more citations and that the novel text in product patents is more likely to be reused relative to process patents. The result is robust a rich set of controls and heterogeneity analysis reveals that the gap in product and process knowledge spillovers widens for innovations that are novel or occurring in rapidly evolving areas of technology. I also find that when the stock of product (process) R&amp;amp;D available to a firm increases, patenting at the firm increases (decreases).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resilient Innovation: Corporate Invention and Remote Work</title>
+      <link>https://colindavison.github.io/working_paper/wfh/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://colindavison.github.io/working_paper/wfh/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This paper investigates whether the large increase in remote work that began during the COVID-19 pandemic had an impact on corporate innovation. Utilizing within firm variation, I find that after the start of the pandemic offices located in counties with high support for Donald Trump have higher visit rates. Using this variation as an instrument for visits to the office, I find evidence which rules out large effects of remote work on innovative activity during 2020. In response to a 10% increase in visits, the 95% confidence interval rules out increases in patent applications of more than 1.0% and declines less than 0.9%. I find even more precisely estimated null effects on distant collaboration and team size. The results suggest that firms and inventors were able to endogenously adjust to the post-pandemic world in order to maintain their innovative productivity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
