@@ -7,10 +7,37 @@
     <description>Colin Davison</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://colindavison.github.io/media/icon_huea1d920862e15798f0f26472c6c5c0a0_13564294_512x512_fill_lanczos_center_3.png</url>
+      <url>https://colindavison.github.io/media/icon_hu60be03e4ca1ac862c5a603e0908ee335_20263519_512x512_fill_lanczos_center_3.png</url>
       <title>Colin Davison</title>
       <link>https://colindavison.github.io/</link>
     </image>
+    
+    <item>
+      <title>Compulsory Innovation: How Education Forms Inventors</title>
+      <link>https://colindavison.github.io/working_paper/compulsory_innovation/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://colindavison.github.io/working_paper/compulsory_innovation/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: We investigate the effect of education on innovation using the rollout of compulsory schooling laws in the United States. We find that primary and secondary education in- crease both the chance an individual will become an inventor and that they will patent a breakthrough innovation. The positive effect of formal schooling on the probability of invention is strongest in geographies with less pre-existing innovative activity, suggesting that exposure to innovation and education act as substitutes in the production of inventors. Our findings provide empirical evidence for the long-hypothesized link between education and the human capital necessary for innovation and growth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Imports, Exports, and Employment: India’s Trading Relationship with China</title>
+      <link>https://colindavison.github.io/working_paper/india_china/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://colindavison.github.io/working_paper/india_china/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This paper examines the effect of increased import competition and export demand on local labor markets in the context of India’s trading relationship with China. Using an instrumental variables approach, I find that labor markets exposed to Chinese imports decrease their manufacturing employment growth relative to their positive pre-existing trend. On average, manufacturing employment does not grow in response to export demand shocks, but sufficiently literate, developed, or urban labor markets see positive manufacturing growth in response to export demand increases. These same districts are also able to increase their service sector employment in response to increased export demand.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring Product and Process Innovation from 1980-2015</title>
+      <link>https://colindavison.github.io/working_paper/measuring_product_process/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://colindavison.github.io/working_paper/measuring_product_process/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This paper uses the text of patents and machine learning techniques to classify patent claims as product or process innovations for U.S. publicly traded manufacturing firms. I document that the aggregate process share of innovation was on a large and secular decline from 1980-2015, falling from 26% in 1980 to 12% in 2015. I find that the process share is low at the beginning of a firm’s product life cycle, peaks in the middle before plateauing at an intermediate level at the end of the life cycle. The code and data underlying the process classification are publicly available to encourage future research in this area.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>When Working From Home Matters</title>
@@ -47,15 +74,6 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Compulsory Innovation: How Education Forms Inventors</title>
-      <link>https://colindavison.github.io/work_in_progress/compulsory_innovation/</link>
-      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://colindavison.github.io/work_in_progress/compulsory_innovation/</guid>
-      <description>&lt;p&gt;This work will seek to shed light on how formal education impacts an individual&amp;rsquo;s innovative activity.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>The Effect of Applied Science on Basic Research: Evidence from Clinical Trials</title>
       <link>https://colindavison.github.io/work_in_progress/basic_applied_science/</link>
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
@@ -70,15 +88,6 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://colindavison.github.io/working_paper/more_competition_better_products/</guid>
       <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This paper uses the text of patents and machine learning techniques to classify patent claims as product or process innovations. To examine the role of competition in shaping innovation, I combine this newly created data with plausibly exogenous variation in foreign import competition induced by large tariff cuts. Using a difference-in-differences strategy, I find that firms increase their product innovation in response to increased import competition, but import competition has no effect on process innovation. Heterogeneity analysis provides evidence that the effect on product innovation is stronger for firms operating in industries with wider scope for product differentiation.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Imports, Exports, and Employment: India’s Trading Relationship with China</title>
-      <link>https://colindavison.github.io/working_paper/india_china/</link>
-      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://colindavison.github.io/working_paper/india_china/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This paper examines the effect of increased import competition and export demand on local labor markets in the context of India’s trading relationship with China. Using an instrumental variables approach, I find that labor markets exposed to Chinese imports decrease their manufacturing employment growth relative to their positive preexisting trend. On average, manufacturing employment does not grow in response to export demand shocks, but sufficiently literate, developed, or urban labor markets see positive manufacturing growth in response to export demand increases. These same districts are also able to increase their service sector employment in response to increased export demand.&lt;/p&gt;
 </description>
     </item>
     
