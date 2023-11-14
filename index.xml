@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>More Competition, Better Products</title>
+      <link>https://colindavison.github.io/working_paper/more_competition_better_products/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://colindavison.github.io/working_paper/more_competition_better_products/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This paper examines how increased competition affects product and process innovation.  I utilize plausibly exogenous variation in foreign competition induced by large tariff cuts with a difference-in-differences strategy and find that firms increase their product innovation in response to increased foreign competition but foreign competition has no effect on process innovation.  Heterogeneity analysis provides evidence that firms generate more valuable product and process patents when patents are effective in protecting a firm&amp;rsquo;s competitive advantage.  Large firms engage in more process innovation as a response to increased competition.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Compulsory Innovation: How Education Forms Inventors</title>
       <link>https://colindavison.github.io/working_paper/compulsory_innovation/</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
@@ -79,15 +88,6 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://colindavison.github.io/work_in_progress/basic_applied_science/</guid>
       <description>&lt;p&gt;This work will seek to shed light on how applied science impacts work done in basic science.  The context of our study will be the disruption to applied science that took place due to the COVID-19 pandemic.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>More Competition, Better Products: Evidence from a Novel Classification of Patents</title>
-      <link>https://colindavison.github.io/working_paper/more_competition_better_products/</link>
-      <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://colindavison.github.io/working_paper/more_competition_better_products/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Abstract&lt;/em&gt;: This paper uses the text of patents and machine learning techniques to classify patent claims as product or process innovations. To examine the role of competition in shaping innovation, I combine this newly created data with plausibly exogenous variation in foreign import competition induced by large tariff cuts. Using a difference-in-differences strategy, I find that firms increase their product innovation in response to increased import competition, but import competition has no effect on process innovation. Heterogeneity analysis provides evidence that the effect on product innovation is stronger for firms operating in industries with wider scope for product differentiation.&lt;/p&gt;
 </description>
     </item>
     
