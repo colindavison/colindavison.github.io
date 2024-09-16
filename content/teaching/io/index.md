@@ -9,4 +9,4 @@ image:
   caption: ''
 ---
 
-[Sample Syllabus](http://localhost:1313/uploads/davison_io_syllabus_spring_24.pdf) 
+[Sample Syllabus](https://colindavison.github.io/uploads/davison_io_syllabus_spring_24.pdf) 

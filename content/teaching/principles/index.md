@@ -8,4 +8,4 @@ tags:
 image:
   caption: 
 ---
-[Sample Syllabus](http://localhost:1313/uploads/davison_principles_syllabus_fall_24.pdf) 
+[Sample Syllabus](https://colindavison.github.io/uploads/davison_principles_syllabus_fall_24.pdf) 
