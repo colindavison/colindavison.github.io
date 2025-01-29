@@ -5,9 +5,9 @@
     <link>http://localhost:1313/tags/work-from-home/</link>
       <atom:link href="http://localhost:1313/tags/work-from-home/index.xml" rel="self" type="application/rss+xml" />
     <description>Work From Home</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Work From Home</title>
       <link>http://localhost:1313/tags/work-from-home/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>When Working From Home Matters</title>
       <link>http://localhost:1313/working_papers/wfh/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/working_papers/wfh/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
