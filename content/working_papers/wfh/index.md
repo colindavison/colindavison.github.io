@@ -17,7 +17,7 @@ publishDate: ""
 publication: ""
 publication_short: ""
 
-abstract: This paper investigates how the large increase in remote work that began during the COVID-19 pandemic impacted corporate innovation. Utilizing within firm variation, I find that after the start of the pandemic, offices located in counties with high support for Donald Trump have higher visit rates to the office. Using all firms in my sample along with this variation in local political attitudes as an instrument for visits to the office, I find that increased intensity of work from home does not significantly impact patenting productivity. When limiting to the offices of firms who are highly innovative, operate in rapidly evolving areas of technology, or are large, I find a negative effect of working from home on patenting productivity.
+abstract: This paper investigates how the large increase in remote work that began during the COVID-19 pandemic impacted corporate innovation. Utilizing within firm variation, I find that after the start of the pandemic, offices located in counties with high support for Donald Trump have higher visit rates to the office. Using this variation in local political attitudes as an instrument for visits to the office, I find that increased visits to the office raise novel patenting productivity for R&D intensive firms. I find that visiting the office increases novel patenting productivity exclusively when inventor teams are geographically distributed or large, suggesting there exists complementarity between in-person interactions and having a large, remote network of collaborators. Visiting the office does not disproportionately generate novel patents with new collaborators.
 
 # Summary. An optional shortened abstract.
 summary: 
