@@ -2,11 +2,11 @@
 title: "Imports, Exports, and Employment: India’s Trading Relationship with China"
 authors:
 - admin
-date: "2024-08-27T00:00:00Z"
+date: "2025-01-02T00:00:00Z"
 doi: "https://doi.org/10.1080/00220388.2024.2388089"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-08-27T00:00:00Z"
+publishDate: "2025-01-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
