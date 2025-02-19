@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>International Trade | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/international-trade/</link>
-      <atom:link href="http://localhost:1313/tags/international-trade/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/international-trade/</link>
+      <atom:link href="https://example.com/tags/international-trade/index.xml" rel="self" type="application/rss+xml" />
     <description>International Trade</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>International Trade</title>
-      <link>http://localhost:1313/tags/international-trade/</link>
+      <link>https://example.com/tags/international-trade/</link>
     </image>
     
     <item>
       <title>Imports, Exports, and Employment: India’s Trading Relationship with China</title>
-      <link>http://localhost:1313/publication/india_china/</link>
+      <link>https://example.com/publication/india_china/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/india_china/</guid>
+      <guid>https://example.com/publication/india_china/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>More Competition, Better Products</title>
-      <link>http://localhost:1313/working_papers/more/</link>
+      <link>https://example.com/working_papers/more/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/working_papers/more/</guid>
+      <guid>https://example.com/working_papers/more/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 

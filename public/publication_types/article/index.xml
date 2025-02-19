@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/publication_types/article/</link>
-      <atom:link href="http://localhost:1313/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/publication_types/article/</link>
+      <atom:link href="https://example.com/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Article</title>
-      <link>http://localhost:1313/publication_types/article/</link>
+      <link>https://example.com/publication_types/article/</link>
     </image>
     
     <item>
       <title>Imports, Exports, and Employment: India’s Trading Relationship with China</title>
-      <link>http://localhost:1313/publication/india_china/</link>
+      <link>https://example.com/publication/india_china/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/india_china/</guid>
+      <guid>https://example.com/publication/india_china/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
