@@ -2,7 +2,7 @@
 title: "Measuring Product and Process Innovation from 1980-2015"
 authors:
 - admin
-date: "2023-11-09T00:00:00Z"
+date: "2025-07-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
