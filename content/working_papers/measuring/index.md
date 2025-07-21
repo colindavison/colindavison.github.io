@@ -1,5 +1,5 @@
 ---
-title: "Measuring Product and Process Innovation from 1980-2015"
+title: "Product and Process Innovation in the U.S. from 1980-2015 and Over the Firm’s Life Cycle"
 authors:
 - admin
 date: "2025-07-21T00:00:00Z"
@@ -17,7 +17,7 @@ publishDate: ""
 publication: ""
 publication_short: ""
 
-abstract: This paper uses the text of patents and machine learning techniques to classify patent claims as product or process innovations for U.S. publicly traded manufacturing firms. I document that the aggregate process share of innovation was on a large and secular decline from 1980-2015, falling from 26% in 1980 to 12% in 2015. I find that the process share is low at the beginning of a firm’s product life cycle, peaks in the middle before plateauing at an intermediate level at the end of the life cycle. The code and data underlying the process classification are publicly available to encourage future research in this area.
+abstract: This paper uses machine learning techniques to classify patent claims as product or process innovations. I document that the overall process share of innovation was on a secular decline from 1980-2015. I find that the process share is low at the beginning of a firm’s product life cycle, peaks in the middle before plateauing at an intermediate level at the end of the life cycle. Firm size is positively associated with the process share of innovation.
 
 # Summary. An optional shortened abstract.
 summary: 
