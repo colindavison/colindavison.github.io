@@ -2,103 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/publication_types/article/</loc>
+    <loc>https://example.com/publication_types/article/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/firm-rd-strategy/</loc>
+    <loc>https://example.com/tags/firm-rd-strategy/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/international-trade/</loc>
+    <loc>https://example.com/tags/international-trade/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/more/</loc>
+    <loc>https://example.com/publication/more/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/product--process-innovation/</loc>
+    <loc>https://example.com/tags/product--process-innovation/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://example.com/publication_types/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://example.com/publication/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2025-11-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/patent-classification/</loc>
+    <loc>https://example.com/tags/patent-classification/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/working_papers/measuring/</loc>
+    <loc>https://example.com/working_papers/measuring/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/product-life-cycle/</loc>
+    <loc>https://example.com/tags/product-life-cycle/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/working_papers/</loc>
+    <loc>https://example.com/working_papers/</loc>
     <lastmod>2025-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/working_papers/wfh/</loc>
+    <loc>https://example.com/working_papers/wfh/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/work-from-home/</loc>
+    <loc>https://example.com/tags/work-from-home/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/india_china/</loc>
+    <loc>https://example.com/publication_types/article-journal/</loc>
     <lastmod>2025-01-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/io/</loc>
+    <loc>https://example.com/publication/india_china/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/teaching/io/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/intermediate/</loc>
+    <loc>https://example.com/teaching/intermediate/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/principles/</loc>
+    <loc>https://example.com/teaching/principles/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://example.com/teaching/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/working_papers/compulsory_innovation/</loc>
+    <loc>https://example.com/working_papers/compulsory_innovation/</loc>
     <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/education/</loc>
+    <loc>https://example.com/tags/education/</loc>
     <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/inventor-formation/</loc>
+    <loc>https://example.com/tags/inventor-formation/</loc>
     <lastmod>2023-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/knowledge-spillovers/</loc>
+    <loc>https://example.com/tags/knowledge-spillovers/</loc>
     <lastmod>2022-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/working_papers/knowledge/</loc>
+    <loc>https://example.com/working_papers/knowledge/</loc>
     <lastmod>2022-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>

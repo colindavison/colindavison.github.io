@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Firm R&amp;D Strategy | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/firm-rd-strategy/</link>
-      <atom:link href="http://localhost:1313/tags/firm-rd-strategy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/firm-rd-strategy/</link>
+      <atom:link href="https://example.com/tags/firm-rd-strategy/index.xml" rel="self" type="application/rss+xml" />
     <description>Firm R&amp;D Strategy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_bf44ff104dda9518.png</url>
+      <url>https://example.com/media/icon_hu_bf44ff104dda9518.png</url>
       <title>Firm R&amp;D Strategy</title>
-      <link>http://localhost:1313/tags/firm-rd-strategy/</link>
+      <link>https://example.com/tags/firm-rd-strategy/</link>
     </image>
     
     <item>
       <title>More Competition, Better Products: Evidence From Tariff Cuts</title>
-      <link>http://localhost:1313/publication/more/</link>
+      <link>https://example.com/publication/more/</link>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/more/</guid>
+      <guid>https://example.com/publication/more/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>When Working From Home Matters</title>
-      <link>http://localhost:1313/working_papers/wfh/</link>
+      <link>https://example.com/working_papers/wfh/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/working_papers/wfh/</guid>
+      <guid>https://example.com/working_papers/wfh/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 

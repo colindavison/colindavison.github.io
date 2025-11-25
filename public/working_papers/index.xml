@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/working_papers/</link>
-      <atom:link href="http://localhost:1313/working_papers/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/working_papers/</link>
+      <atom:link href="https://example.com/working_papers/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_bf44ff104dda9518.png</url>
+      <url>https://example.com/media/icon_hu_bf44ff104dda9518.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/working_papers/</link>
+      <link>https://example.com/working_papers/</link>
     </image>
     
     <item>
       <title>Product and Process Innovation in the U.S. from 1980-2015 and Over the Firm’s Life Cycle</title>
-      <link>http://localhost:1313/working_papers/measuring/</link>
+      <link>https://example.com/working_papers/measuring/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/working_papers/measuring/</guid>
+      <guid>https://example.com/working_papers/measuring/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>When Working From Home Matters</title>
-      <link>http://localhost:1313/working_papers/wfh/</link>
+      <link>https://example.com/working_papers/wfh/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/working_papers/wfh/</guid>
+      <guid>https://example.com/working_papers/wfh/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
@@ -68,9 +68,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Compulsory Innovation: How Education Forms Inventors</title>
-      <link>http://localhost:1313/working_papers/compulsory_innovation/</link>
+      <link>https://example.com/working_papers/compulsory_innovation/</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/working_papers/compulsory_innovation/</guid>
+      <guid>https://example.com/working_papers/compulsory_innovation/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
@@ -95,9 +95,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Knowledge Spillovers of Products and Processes</title>
-      <link>http://localhost:1313/working_papers/knowledge/</link>
+      <link>https://example.com/working_papers/knowledge/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/working_papers/knowledge/</guid>
+      <guid>https://example.com/working_papers/knowledge/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
