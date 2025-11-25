@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/international-trade/</link>
       <atom:link href="http://localhost:1313/tags/international-trade/index.xml" rel="self" type="application/rss+xml" />
     <description>International Trade</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_bf44ff104dda9518.png</url>
       <title>International Trade</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Imports, Exports, and Employment: India’s Trading Relationship with China</title>
-      <link>http://localhost:1313/publication/india_china/</link>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/india_china/</guid>
+      <title>More Competition, Better Products: Evidence From Tariff Cuts</title>
+      <link>http://localhost:1313/publication/more/</link>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/more/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
@@ -40,10 +40,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
-      <title>More Competition, Better Products</title>
-      <link>http://localhost:1313/working_papers/more/</link>
-      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/working_papers/more/</guid>
+      <title>Imports, Exports, and Employment: India’s Trading Relationship with China</title>
+      <link>http://localhost:1313/publication/india_china/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/india_china/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 

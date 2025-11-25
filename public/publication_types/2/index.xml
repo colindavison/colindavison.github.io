@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Article-Journal | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/publication_types/article-journal/</link>
-      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
-    <description>Article-Journal</description>
+    <title>2 | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/publication_types/2/</link>
+      <atom:link href="http://localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_bf44ff104dda9518.png</url>
-      <title>Article-Journal</title>
-      <link>http://localhost:1313/publication_types/article-journal/</link>
+      <title>2</title>
+      <link>http://localhost:1313/publication_types/2/</link>
     </image>
     
     <item>
