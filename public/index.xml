@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Academic CV Theme</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hugo Academic CV Theme</description>
+    <title>Colin Davison</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Colin Davison</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_bf44ff104dda9518.png</url>
-      <title>Hugo Academic CV Theme</title>
-      <link>https://example.com/</link>
+      <url>http://localhost:1313/media/icon_hu_bf44ff104dda9518.png</url>
+      <title>Colin Davison</title>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>More Competition, Better Products: Evidence From Tariff Cuts</title>
-      <link>https://example.com/publication/more/</link>
+      <link>http://localhost:1313/publication/more/</link>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/more/</guid>
+      <guid>http://localhost:1313/publication/more/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Product and Process Innovation in the U.S. from 1980-2015 and Over the Firm’s Life Cycle</title>
-      <link>https://example.com/working_papers/measuring/</link>
+      <link>http://localhost:1313/working_papers/measuring/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/working_papers/measuring/</guid>
+      <guid>http://localhost:1313/working_papers/measuring/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
@@ -68,9 +68,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>When Working From Home Matters</title>
-      <link>https://example.com/working_papers/wfh/</link>
+      <link>http://localhost:1313/working_papers/wfh/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/working_papers/wfh/</guid>
+      <guid>http://localhost:1313/working_papers/wfh/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
@@ -95,9 +95,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Imports, Exports, and Employment: India’s Trading Relationship with China</title>
-      <link>https://example.com/publication/india_china/</link>
+      <link>http://localhost:1313/publication/india_china/</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/india_china/</guid>
+      <guid>http://localhost:1313/publication/india_china/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
@@ -122,9 +122,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Industrial Organization</title>
-      <link>https://example.com/teaching/io/</link>
+      <link>http://localhost:1313/teaching/io/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/io/</guid>
+      <guid>http://localhost:1313/teaching/io/</guid>
       <description>&lt;p&gt;
 &lt;/p&gt;
 </description>
@@ -132,9 +132,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Intermediate Microeconomic Theory</title>
-      <link>https://example.com/teaching/intermediate/</link>
+      <link>http://localhost:1313/teaching/intermediate/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/intermediate/</guid>
+      <guid>http://localhost:1313/teaching/intermediate/</guid>
       <description>&lt;p&gt;
 &lt;/p&gt;
 </description>
@@ -142,9 +142,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Principles of Economics</title>
-      <link>https://example.com/teaching/principles/</link>
+      <link>http://localhost:1313/teaching/principles/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/principles/</guid>
+      <guid>http://localhost:1313/teaching/principles/</guid>
       <description>&lt;p&gt;
 &lt;/p&gt;
 </description>
@@ -152,9 +152,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Compulsory Innovation: How Education Forms Inventors</title>
-      <link>https://example.com/working_papers/compulsory_innovation/</link>
+      <link>http://localhost:1313/working_papers/compulsory_innovation/</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/working_papers/compulsory_innovation/</guid>
+      <guid>http://localhost:1313/working_papers/compulsory_innovation/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
@@ -179,9 +179,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Knowledge Spillovers of Products and Processes</title>
-      <link>https://example.com/working_papers/knowledge/</link>
+      <link>http://localhost:1313/working_papers/knowledge/</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/working_papers/knowledge/</guid>
+      <guid>http://localhost:1313/working_papers/knowledge/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 

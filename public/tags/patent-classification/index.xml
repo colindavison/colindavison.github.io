@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Patent Classification | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/patent-classification/</link>
-      <atom:link href="https://example.com/tags/patent-classification/index.xml" rel="self" type="application/rss+xml" />
+    <title>Patent Classification | Colin Davison</title>
+    <link>http://localhost:1313/tags/patent-classification/</link>
+      <atom:link href="http://localhost:1313/tags/patent-classification/index.xml" rel="self" type="application/rss+xml" />
     <description>Patent Classification</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_bf44ff104dda9518.png</url>
+      <url>http://localhost:1313/media/icon_hu_bf44ff104dda9518.png</url>
       <title>Patent Classification</title>
-      <link>https://example.com/tags/patent-classification/</link>
+      <link>http://localhost:1313/tags/patent-classification/</link>
     </image>
     
     <item>
       <title>Product and Process Innovation in the U.S. from 1980-2015 and Over the Firm’s Life Cycle</title>
-      <link>https://example.com/working_papers/measuring/</link>
+      <link>http://localhost:1313/working_papers/measuring/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/working_papers/measuring/</guid>
+      <guid>http://localhost:1313/working_papers/measuring/</guid>
       <description>&lt;!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 
