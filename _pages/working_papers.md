@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
+permalink: /working_papers/
+title: Working Papers
 description:
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
@@ -14,7 +14,5 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="publications">
-
-{% bibliography -f papers -q @*[category!=working_paper]* %}
-
+  {% bibliography -f papers -q @*[category=working_paper]* %}
 </div>
