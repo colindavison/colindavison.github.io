@@ -1,43 +1,43 @@
 cv:
   name: Colin Davison
-  label: 
+  label:
   email: cdavison@wooster.edu
   location: Wooster, OH
   image: ""
   summary: An innovation economist.
 
   social_networks:
-    - network: 
-      username: 
+    - network:
+      username:
     - network: GitHub
       username: colindavison
     - network: LinkedIn
       username: colinmdavison
 
   address:
-    street: 
-    city: 
-    region: 
-    postalCode: 
-    countryCode: 
+    street:
+    city:
+    region:
+    postalCode:
+    countryCode:
 
   sections:
     Education:
       - institution: University of Notre Dame
         location: Notre Dame, IN
-        url: 
+        url:
         area: Economics
         studyType: Ph.D.
         start_date: 2018
         end_date: 2023
-        score: 
-        courses: 
+        score:
+        courses:
         highlights:
 
       - institution: Miami University
         location: Oxford, OH
         area: Economics
-        studyType: 
+        studyType:
         start_date: 2012
         end_date: 2015
         highlights:
@@ -48,7 +48,7 @@ cv:
         location: Chicago, IL
         start_date: 2015
         end_date: 2018
-        summary: 
+        summary:
         highlights:
 
     Volunteer:
